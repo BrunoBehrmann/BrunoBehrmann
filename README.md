@@ -8,4 +8,6 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBehrmann&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBehrmann)](https://github.com/anuraghazra/github-readme-stats)
+
 Apaixonado por tecnologia, aprendizado e por mudar a vida das pessoas através da programação.
