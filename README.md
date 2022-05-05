@@ -6,4 +6,4 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClWqZoClN2MaMRN0Fc4MBpg/featured)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/bruno.desousabehrmann/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBehrmann&show_icons=true&theme=gruvbox)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBehrmann&show_icons=true&theme=tokyonight)
