@@ -21,5 +21,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBehrmann&layout=donut-vertical)](https://github.com/BrunoBehrmann/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBehrmann&layout=donut-vertical&theme=dark)](https://github.com/BrunoBehrmann/github-readme-stats)
