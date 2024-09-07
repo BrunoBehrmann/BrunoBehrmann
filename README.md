@@ -1,24 +1,33 @@
-### Olá! Eu sou o Bruno Behrmann 🌌
+# Olá, eu sou Bruno Behrmann! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-behrmann)
-[![GitGub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoBehrmann)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno.behrmann/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClWqZoClN2MaMRN0Fc4MBpg/featured)
+Sou um desenvolvedor back-end, pretendo em expandir minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
+## 🚀 Sobre Mim
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Eclipse IDE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
+- **Atualmente**: Estagiário na Superintendência de Tecnologia da Informação - UFBA, trabalhando na manutenção e implementação de projetos internos para o sistema SIPAC.
+- **Objetivo**: Aplicar e expandir minhas habilidades em projetos desafiadores e contribuir para soluções inovadoras e eficientes.
+- **Interesses**: Desenvolvimento de back-end, programação orientada a objetos, e tecnologias emergentes.
 
-<br>
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens**: Java, JavaScript, SQL
+- **Frameworks**: JSP, JSF
+- **Banco de Dados**: PostgreSQL
+- **Ferramentas**: Git
+- **Web Technologies**: HTML, CSS
+
+## 🌟 Projeto em Destaque
+
+- **[Engenharia-De-Software-1-Trabalho-pratico ](https://github.com/BrunoBehrmann/Engenharia-De-Software-1-Trabalho-pratico)**: Pequeno projeto com aplicação de conceitos de Engenharia de Software.
+
+## 📈 Estatísticas do GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBehrmann&layout=donut-vertical&theme=dracula)](https://github.com/BrunoBehrmann/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoBehrmann&show_icons=true&theme=dracula)](https://github.com/BrunoBehrmann/github-readme-stats)
+
+## 🌐 Contato
+
+- **LinkedIn:** [linkedin.com/in/bruno-behrmann](https://www.linkedin.com/in/bruno-behrmann/)
+- **Instagram:** [instagram.com/bruno.behrmann](https://www.instagram.com/bruno.behrmann/)
+- **YouTube:** [youtube.com/channel/UClWqZoClN2MaMRN0Fc4MBpg](https://www.youtube.com/channel/UClWqZoClN2MaMRN0Fc4MBpg)
+
