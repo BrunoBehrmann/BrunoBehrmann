@@ -6,10 +6,10 @@
 **🌟 Projeto em Destaque:**[Engenharia-De-Software-1-Trabalho-Pratico](https://github.com/BrunoBehrmann/Engenharia-De-Software-1-Trabalho-pratico): Projeto aplicando conceitos de Engenharia de Software.<br>
 
 <div align="center">
-  <a href="https://github.com/BrunoBehrmann/github-readme-stats" style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBehrmann&layout=donut-vertical&theme=dracula" alt="Top Langs" style="height: 150px;" />
+  <a href="https://github.com/BrunoBehrmann/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBehrmann&layout=donut-vertical&theme=dracula" alt="Top Langs" />
   </a>
-  <a href="https://github.com/BrunoBehrmann/github-readme-stats" style="display: inline-block; vertical-align: top; margin-left: -10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=BrunoBehrmann&show_icons=true&theme=dracula" alt="GitHub Stats" style="height: 150px;" />
+  <a href="https://github.com/BrunoBehrmann/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BrunoBehrmann&show_icons=true&theme=dracula" alt="GitHub Stats" />
   </a>
 </div>
